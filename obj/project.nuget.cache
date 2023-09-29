@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pU/PE6gpq55qru8nILqTlFUWYuIydfIOS/naJxBmhjN6WqebFZeGJ3jP+Nu6mr7bRGMyw8GS4QEptVi4LDxoWg==",
+  "success": true,
+  "projectFilePath": "/home/max/ZeidelMethod/ZeidelMethod.csproj",
+  "expectedPackageFiles": [
+    "/home/max/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512",
+    "/home/max/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
